@@ -27,3 +27,13 @@ if (typeof result === "undefined") {
 }
 
 //For Something that is not a Number//
+var number1 = 5;
+var number2 = 9;
+var resultA = "Alex";
+
+//If I divide result as result/2, I would get a NaN.//
+
+//IF//
+var myNumber1 = "a";
+var myNumber2 = 9;
+var resultB = parseInt(myNumber1) + parseInt(myNumber2);
