@@ -16,10 +16,14 @@ if (c) {
   alert("You are not sure.");
 }*/
 
-var num1 = 5;
+//For Numbers//
+//Check in console//
+var num1 = 5; //Defined//
 var num2 = 9;
-var result;
+var result; //Undefined//
 
 if (typeof result === "undefined") {
-  result = num1 + num2;
+  result = num1 + num2; //Now, defined//
 }
+
+//For Something that is not a Number//
